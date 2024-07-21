@@ -1,0 +1,6 @@
+{
+    "port": 8000,
+    "proxy": "localhost:8001",
+    "files": ["dist", "server"],
+    "watchEvents": ["add", "change", "unlink", "addDir", "unlinkDir"]
+}
