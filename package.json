@@ -13,7 +13,7 @@
     "start:server": "nodemon --config nodemon.json",
     "start:sync": "browser-sync start --config browser-sync.json",
     "start:dev": "run-p start:client start:server start:sync",
-    "start:production": "npm run build && node ./server/index.cjs"
+    "start:production": "npm run build && node ./server/index.mjs"
   },
   "dependencies": {
     "compression": "^1.7.4",

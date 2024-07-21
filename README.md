@@ -1,10 +1,10 @@
-# WebSockets (React + TypeScript + Vite + Express)
+# Server-Sent Events (React + TypeScript + Vite + Express)
 
-The project illustrates an example of a simple chat based on [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
+The project illustrates an example of a simple chat based on [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events).
 
 The server (Express) code is in the `server` folder.
 
-## [Live Demo](https://websockets-example-8awk.onrender.com/)
+## [Live Demo](https://sse-example.onrender.com)
 
 Local launch:
 
